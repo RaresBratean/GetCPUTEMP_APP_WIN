@@ -3,7 +3,7 @@ The application gets the CPU temperature from your computer by accessing the sen
 
 ## Usage
 
-To use the application you need to run it as administrator. 
+To use the application you need to run it as administrator. Copy all the present files in the same folder to successfully tun the executable.
 
 ## Sources
 
