@@ -7,11 +7,11 @@ To use the application you need to run it as administrator.
 
 ## Sources
 
-Creating the project:
-https://csharp.hotexamples.com/examples/OpenHardwareMonitor.Hardware/Computer/-/php-computer-class-examples.html
-https://docs.microsoft.com/en-us/dotnet/api/microsoft.visualbasic.devices.computer?view=netframework-4.8
-https://docs.microsoft.com/en-us/windows/win32/api/sensorsapi/nn-sensorsapi-isensor
+Creating the project:<br />
+https://csharp.hotexamples.com/examples/OpenHardwareMonitor.Hardware/Computer/-/php-computer-class-examples.html <br />
+https://docs.microsoft.com/en-us/dotnet/api/microsoft.visualbasic.devices.computer?view=netframework-4.8 <br />
+https://docs.microsoft.com/en-us/windows/win32/api/sensorsapi/nn-sensorsapi-isensor <br />
 
-Information regarding CPU temperature:
-https://www.techadvisor.co.uk/how-to/desktop-pc/best-cpu-temperature-3498564/
-https://www.computerhope.com/issues/ch000687.htm
+Information regarding CPU temperature:<br />
+https://www.techadvisor.co.uk/how-to/desktop-pc/best-cpu-temperature-3498564/<br />
+https://www.computerhope.com/issues/ch000687.htm<br />
